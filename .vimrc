@@ -9,7 +9,7 @@ and then run:
  
  :PlugInstall 
 ------------------------------------
-Paste in VIM dir
+Paste in VIM dir:
 
 syntax on
 
