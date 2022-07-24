@@ -1,3 +1,16 @@
+
+-------------------------------------
+installation for Unix:
+
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+       
+and then run: 
+ 
+ :PlugInstall 
+------------------------------------
+Paste in VIM dir
+
 syntax on
 
 set noerrorbells
